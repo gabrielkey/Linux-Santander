@@ -1,6 +1,6 @@
 # Servidor Web
 
-Imagine uma empresa que precise provisonar diversos servidores web, com script fica bem mais fácil para gerenciar tudo. Nesse script vamos criar um servidor web para uma empresa ficticia.
+Imagine uma empresa que precise provisionar diversos servidores web, com script fica bem mais fácil para gerenciar tudo. Nesse script vamos criar um servidor web para uma empresa fictícia.
 
 ## ServidorWeb.sh
 
