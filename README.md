@@ -4,8 +4,8 @@ Durante este bootcamp, adquiri novos conhecimentos e aprofundei outros, incluind
 
 ## Desafios
 
-- [Desafio 01](desafios/Servidor%20Web/README.md)
-- [Desafio 02](desafios/Setores/README.md)
+- [Desafio 01](desafios/Servidor%20Web/)
+- [Desafio 02](desafios/Setores/)
 
 # Scripts
 
@@ -13,4 +13,4 @@ Durante este bootcamp, adquiri novos conhecimentos e aprofundei outros, incluind
 
 # Micro Serviço
 
-- [Micro Serviço](toshiro-shibakita-main/README.md)
+- [Micro Serviço](toshiro-shibakita-main/)
